@@ -48,7 +48,7 @@ cd Medical-Report-Visualization
  ```bash
 pip install -r requirements.txt
 ```
-4️⃣ Run the Application
+3️⃣ Run the Application
 ```bash
 streamlit run app.py
 ```
