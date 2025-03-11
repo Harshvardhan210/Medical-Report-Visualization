@@ -1,8 +1,6 @@
 
 # 🌟 Medical Report Visualization
 
-Welcome to my Portfolio Website! This is a personal portfolio built using HTML, CSS, and JavaScript, designed to showcase my skills, projects, and experience.
-
 
 
 
